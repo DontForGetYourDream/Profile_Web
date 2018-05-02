@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://profile.com/index.html</loc>
+    <loc>http://profile1.com/index.html</loc>
     <lastmod>2018-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://profile.com/images/people.png</image:loc>
+      <image:loc>http://profile1.com/images/people.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/people_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/people_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/arrow2-down-256.png</image:loc>
+      <image:loc>http://profile1.com/images/arrow2-down-256.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/arrow2-down-256_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/arrow2-down-256_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/avatar%E6%8B%B7%E8%B2%9D.png</image:loc>
+      <image:loc>http://profile1.com/images/avatar%E6%8B%B7%E8%B2%9D.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/avatar%E6%8B%B7%E8%B2%9D_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/avatar%E6%8B%B7%E8%B2%9D_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/shapes.png</image:loc>
+      <image:loc>http://profile1.com/images/shapes.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/shapes_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/shapes_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/pen.png</image:loc>
+      <image:loc>http://profile1.com/images/pen.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/pen_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/pen_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/19437402_10154516745902477_7778939877688496737_n273x275.jpg</image:loc>
+      <image:loc>http://profile1.com/images/19437402_10154516745902477_7778939877688496737_n273x275.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/back-to-top-icon-png-14.png</image:loc>
+      <image:loc>http://profile1.com/images/back-to-top-icon-png-14.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/back-to-top-icon-png-14_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/back-to-top-icon-png-14_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/19437402_10154516745902477_7778939877688496737_n.jpg</image:loc>
+      <image:loc>http://profile1.com/images/19437402_10154516745902477_7778939877688496737_n.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/interface%20(1)68x69.png</image:loc>
+      <image:loc>http://profile1.com/images/interface%20(1)68x69.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/interface%20(1)_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/interface%20(1)_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/back-to-top-icon-png-1429x32.png</image:loc>
+      <image:loc>http://profile1.com/images/back-to-top-icon-png-1429x32.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/back-to-top-icon-png-1429x32_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/back-to-top-icon-png-1429x32_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/back-to-top-icon-png-1429x31.png</image:loc>
+      <image:loc>http://profile1.com/images/back-to-top-icon-png-1429x31.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/back-to-top-icon-png-1429x31_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/back-to-top-icon-png-1429x31_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/interface%20(1)57x57.png</image:loc>
+      <image:loc>http://profile1.com/images/interface%20(1)57x57.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://profile.com/images/interface%20(1)57x57_2x.png</image:loc>
+      <image:loc>http://profile1.com/images/interface%20(1)57x57_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://profile.com/assets/black-keyboard-enter-key-hd-wallpaper-1920x1080.jpg</loc>
+    <loc>http://profile1.com/assets/black-keyboard-enter-key-hd-wallpaper-1920x1080.jpg</loc>
     <lastmod>2018-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://profile.com/assets/423176.png</loc>
+    <loc>http://profile1.com/assets/423176.png</loc>
     <lastmod>2018-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
